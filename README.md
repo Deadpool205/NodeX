@@ -1,4 +1,4 @@
-Ocho
+NodeX
 ======
 
 A fast, light, open-source cryptocoin exchange based on Node.js and express.js
@@ -38,8 +38,6 @@ Todo:
 
 -----
 
-I believe a strong, secure, auditable source code for an exchange is crucial to the success of cryptocurrency. Donations to further development are accepted:
+Donations are accepted:
 
-  * BTC 1CHvCfKL8Wt2eSt4VVRdcZTJNuN1iTPwLx
-  * LTC Lg1ykfYMvuqLC2SpC4h6DfZFcJF5yvNC2Z
-  * VTC VuwrP9f6DhJpX4XSozgKAexa9oCBq5t6k5
+  * BTC 17Dqs6RBTTCFrbVcb4NiXKvahefMdQD1NZ
